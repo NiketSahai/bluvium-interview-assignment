@@ -65,8 +65,6 @@ After running the notebook, the following outputs are generated:
   - `support_categories.png` — Support issue category distribution
   - `sentiment_shift.png` — Sentiment shift around positive pivots
 
-- **`output/transcript_intelligence_deck.pptx`** — 18-slide presentation deck with embedded charts and key findings, structured for a 5-10 minute leadership walkthrough.
-
 ## Project Structure
 
 ```
@@ -94,7 +92,6 @@ After running the notebook, the following outputs are generated:
 │   └── ...
 └── output/                    # Generated outputs
     ├── figures/               # Exported chart PNGs
-    └── transcript_intelligence_deck.pptx
 ```
 
 ## Methodology
